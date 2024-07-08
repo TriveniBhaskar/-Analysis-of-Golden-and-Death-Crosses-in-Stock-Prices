@@ -1,0 +1,2 @@
+# -Analysis-of-Golden-and-Death-Crosses-in-Stock-Prices
+The project analyzes the impact of Golden and Death Crosses on stock prices using 50-day and 200-day moving averages over five years. Data imported from a Google Cloud Bucket to a Cloud SQL database enables efficient analysis. Post-cross price changes are tracked over various time frames, offering actionable insights for traders and investors.
